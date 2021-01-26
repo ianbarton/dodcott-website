@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://ianbarton.github.io/"
 title = "Dodcott-cum-Wilkesley"
 languageCode = "en-gb"
 paginate = "10" # Number of posts per page
@@ -6,7 +6,7 @@ theme = "mainroad"
 disqusShortname = "" # Enable comments by entering your Disqus shortname
 googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 tags = ["blog", "gopro", "photography"]
-publishDir = "docs"
+publishDir = "../../docs"
 
 [taxonomies]
   category = "categories"

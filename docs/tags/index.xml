@@ -2,71 +2,71 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Dodcott-cum-Wilkesley</title>
-    <link>/tags/</link>
+    <link>https://ianbarton.github.io/tags/</link>
     <description>Recent content in Tags on Dodcott-cum-Wilkesley</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Wed, 26 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 26 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://ianbarton.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>parishcouncil</title>
-      <link>/tags/parishcouncil/</link>
+      <link>https://ianbarton.github.io/tags/parishcouncil/</link>
       <pubDate>Wed, 26 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>/tags/parishcouncil/</guid>
+      <guid>https://ianbarton.github.io/tags/parishcouncil/</guid>
       <description></description>
     </item>
     
     <item>
       <title>accounts</title>
-      <link>/tags/accounts/</link>
+      <link>https://ianbarton.github.io/tags/accounts/</link>
       <pubDate>Sun, 29 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/accounts/</guid>
+      <guid>https://ianbarton.github.io/tags/accounts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>github</title>
-      <link>/tags/github/</link>
+      <link>https://ianbarton.github.io/tags/github/</link>
       <pubDate>Wed, 08 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/github/</guid>
+      <guid>https://ianbarton.github.io/tags/github/</guid>
       <description></description>
     </item>
     
     <item>
       <title>transparency</title>
-      <link>/tags/transparency/</link>
+      <link>https://ianbarton.github.io/tags/transparency/</link>
       <pubDate>Sun, 21 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/transparency/</guid>
+      <guid>https://ianbarton.github.io/tags/transparency/</guid>
       <description></description>
     </item>
     
     <item>
       <title>agm</title>
-      <link>/tags/agm/</link>
+      <link>https://ianbarton.github.io/tags/agm/</link>
       <pubDate>Mon, 08 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/agm/</guid>
+      <guid>https://ianbarton.github.io/tags/agm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>affordablehousing</title>
-      <link>/tags/affordablehousing/</link>
+      <link>https://ianbarton.github.io/tags/affordablehousing/</link>
       <pubDate>Mon, 07 Mar 2016 00:00:00 +0000</pubDate>
       
-      <guid>/tags/affordablehousing/</guid>
+      <guid>https://ianbarton.github.io/tags/affordablehousing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>news</title>
-      <link>/tags/news/</link>
+      <link>https://ianbarton.github.io/tags/news/</link>
       <pubDate>Thu, 04 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>/tags/news/</guid>
+      <guid>https://ianbarton.github.io/tags/news/</guid>
       <description></description>
     </item>
     

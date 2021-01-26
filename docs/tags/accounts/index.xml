@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>accounts on Dodcott-cum-Wilkesley</title>
-    <link>/tags/accounts/</link>
+    <link>https://ianbarton.github.io/tags/accounts/</link>
     <description>Recent content in accounts on Dodcott-cum-Wilkesley</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sun, 29 Jul 2018 00:00:00 +0000</lastBuildDate><atom:link href="/tags/accounts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 29 Jul 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://ianbarton.github.io/tags/accounts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Parish Council Accounts for 2017-2018.</title>
-      <link>/posts/2018-07-29-parish-council-accounts/</link>
+      <link>https://ianbarton.github.io/posts/2018-07-29-parish-council-accounts/</link>
       <pubDate>Sun, 29 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>/posts/2018-07-29-parish-council-accounts/</guid>
+      <guid>https://ianbarton.github.io/posts/2018-07-29-parish-council-accounts/</guid>
       <description>The audited accounts for 2017-2018 are available on Google Drive. Click here to view the pdf file.</description>
     </item>
     
